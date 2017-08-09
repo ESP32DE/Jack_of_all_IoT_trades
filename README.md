@@ -1,10 +1,27 @@
-## Welcome to GitHub Pages
+## The Jack of all IoT trades
 
-You can use the [editor on GitHub](https://github.com/ESP32DE/Jack_of_all_IoT_trades/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+it is an open hardware project from and for the ESP32 community and comes step by step.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+there is a try to build in many things optional by adaption breakouts step by step on this board that this board becomes an education character for for hobbyists, students, teachers and professional engineers.
 
-### Markdown
+It becomes arduino friendly form size and code support. 
+
+### To Do
+
+- create repo
+- create time plan
+- create possible things like kickstarter or other to go in serie with the idea
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

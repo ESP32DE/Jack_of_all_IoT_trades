@@ -36,3 +36,4 @@ Visit this time to time cause it gets time to time an update here
 
 --------------------------------------------------------------------------------------------------
 
+(https://raw.githubusercontent.com/ESP32DE/Jack_of_all_IoT_trades/master/Board/DraftDesign/Draft-Design-R1-Jack_of_all_IoT_trades.jpg)

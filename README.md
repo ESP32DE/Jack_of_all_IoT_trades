@@ -34,6 +34,12 @@ Visit this time to time cause it gets time to time an update here
 - calculate Boardprice and work
 - create possible things like kickstarter or other to go in serie with the idea
 
+
+### credit
+
+The name of "Jack of all IoT trades" 
+- this was [https://twitter.com/nikil511/status/868445425086418944](suggest) from `Manolis Nikiforakis` alias @nikil511  
+
 --------------------------------------------------------------------------------------------------
 
 ![pic](https://raw.githubusercontent.com/ESP32DE/Jack_of_all_IoT_trades/master/Board/DraftDesign/Draft-Design-R1-Jack_of_all_IoT_trades.jpg)

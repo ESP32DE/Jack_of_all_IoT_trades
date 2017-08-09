@@ -37,11 +37,13 @@ Visit this time to time cause it gets time to time an update here
 
 ### Credit
 
-***ESP32***
-- _ESP32 is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) area requirements._ and comes from [Espressif](http://espressif.com/en/products/hardware/esp32/overview) 
+powered by ***ESP32***
+- ***ESP32*** _is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) area requirements._ and comes from [Espressif](http://espressif.com/en/products/hardware/esp32/overview) 
+
 
 The name "***Jack of all IoT trades***" for the education board 
 - this was [suggest](https://twitter.com/nikil511/status/868445425086418944) from `Manolis Nikiforakis` alias ``@nikil511``  
+
 
 --------------------------------------------------------------------------------------------------
 

@@ -3,7 +3,7 @@
 `The Jack of all IoT trades` is up and coming!
 
 
-## What's that 
+# What's that 
 
 ``The Jack of all IoT trades`` is an open hardware project from and for the ESP32 community and comes step by step.
 
@@ -15,7 +15,7 @@ Also get support for [Espressif IoT Development Framework](https://github.com/es
 
 Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to time cause it gets time to time an update here
 
-### What has already been conceived to realize and what is already running  
+# What has already been conceived to realize and what is already running  
 
 - WiFi / BLE / BT Base is by **ESP32**
   - [Info ESP32](http://espressif.com/en/products/hardware/esp32/overview)
@@ -23,7 +23,8 @@ Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to tim
 - Supplement follows
 
 
-#### To Do
+# To Do
+
 - ~create repo~ 
 - ~create readme~
 - append readme text with more infos
@@ -35,7 +36,7 @@ Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to tim
 - create possible things like kickstarter or other to go in serie with the idea
 
 
-##### Credit
+# Credit
 
 powered by ***ESP32***
 - ***ESP32*** _is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) area requirements._ and comes from [Espressif](http://espressif.com/en/products/hardware/esp32/overview) 

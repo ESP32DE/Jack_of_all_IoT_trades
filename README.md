@@ -7,11 +7,11 @@ the `The Jack of all IoT trades` is up and coming!
 
 ***The Jack of all IoT trades*** is an open hardware project from and for the ESP32 community and comes step by step.
 
-there is **_a try to build in_** many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
+There is **_a try to build in_** many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
 
 It becomes arduino friendly form size and [https://github.com/espressif/arduino-esp32](Arduino core for the ESP32 support). 
 
-Also we code in [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32
+Also we code in [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32.
 
 Visit this time to time cause it gets time to time an update here
 
@@ -20,9 +20,16 @@ Visit this time to time cause it gets time to time an update here
 - WiFi / BLE / BT Base is by **ESP32**
   - [Info ESP32](http://espressif.com/en/products/hardware/esp32/overview)
 
+..
+..
+..
+..
+
 ### To Do
 
-- create repo
+- ~create repo~ 
+- ~create readme~
+- append readme text with more infos
 - create time plan
 - create base info from the board
 - create base info from form size factor

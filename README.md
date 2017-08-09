@@ -23,7 +23,7 @@ Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to tim
 - Supplement follows
 
 
-### To Do
+#### To Do
 - ~create repo~ 
 - ~create readme~
 - append readme text with more infos
@@ -35,7 +35,7 @@ Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to tim
 - create possible things like kickstarter or other to go in serie with the idea
 
 
-### Credit
+##### Credit
 
 powered by ***ESP32***
 - ***ESP32*** _is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) area requirements._ and comes from [Espressif](http://espressif.com/en/products/hardware/esp32/overview) 

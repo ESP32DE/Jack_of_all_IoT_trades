@@ -9,9 +9,9 @@
 
 There is a try **_to build in_** many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
 
-It becomes arduino friendly form size and [https://github.com/espressif/arduino-esp32](Arduino core for the ESP32 support). 
+It comes with arduino friendly form size and [https://github.com/espressif/arduino-esp32](Arduino core for the ESP32 support). 
 
-Also we code in [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32.
+Also get support for [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32.
 
 Visit this time to time cause it gets time to time an update here
 

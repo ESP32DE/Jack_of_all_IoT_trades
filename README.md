@@ -1,3 +1,8 @@
+# What's up in late summer / autumn of 2017
+
+the ***Jack of all IoT trades*** is up and coming!
+
+
 ## The Jack of all IoT trades
 
 it is an open hardware project from and for the ESP32 community and comes step by step.
@@ -5,6 +10,8 @@ it is an open hardware project from and for the ESP32 community and comes step b
 there is _a try to build in_ many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
 
 It becomes arduino friendly form size and code support. 
+
+Also we code in [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32
 
 Visit this time to time cause it gets time to time an update here
 

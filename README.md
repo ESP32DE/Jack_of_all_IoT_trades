@@ -2,13 +2,13 @@
 
 it is an open hardware project from and for the ESP32 community and comes step by step.
 
-there is a try to build in many things optional by adaption breakouts step by step on this board that this board becomes an education character for for hobbyists, students, teachers and professional engineers.
+there is _a try to build in_ many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
 
 It becomes arduino friendly form size and code support. 
 
+Visit this time to time cause it gets time to time an update here
 
-### What has already been conceived to realize 
-### what is already running on the Jack of all IoT trades 
+### What has already been conceived to realize and what is already running  
 
 - WiFi / BLE / BT by **ESP32**
   - [Info ESP32](http://espressif.com/en/products/hardware/esp32/overview)

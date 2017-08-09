@@ -3,9 +3,9 @@
 the `The Jack of all IoT trades` is up and coming!
 
 
-## What's ***The Jack of all IoT trades***
+## What's ``The Jack of all IoT trades``
 
-***The Jack of all IoT trades*** is an open hardware project from and for the ESP32 community and comes step by step.
+``The Jack of all IoT trades`` is an open hardware project from and for the ESP32 community and comes step by step.
 
 There is **_a try to build in_** many optional IoT / IoE things by adaption breakouts step by step on this board that this board becomes an education character for hobbyists, students, teachers and professional engineers.
 

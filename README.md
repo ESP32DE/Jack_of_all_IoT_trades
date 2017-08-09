@@ -37,8 +37,8 @@ Visit this time to time cause it gets time to time an update here
 
 ### credit
 
-The name of "Jack of all IoT trades" 
-- this was [https://twitter.com/nikil511/status/868445425086418944](suggest) from `Manolis Nikiforakis` alias ``@nikil511``  
+The name "Jack of all IoT trades" for the education board 
+- this was [suggest](https://twitter.com/nikil511/status/868445425086418944) from `Manolis Nikiforakis` alias ``@nikil511``  
 
 --------------------------------------------------------------------------------------------------
 

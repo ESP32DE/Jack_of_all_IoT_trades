@@ -6,6 +6,16 @@ there is a try to build in many things optional by adaption breakouts step by st
 
 It becomes arduino friendly form size and code support. 
 
+
+### What has already been conceived to realize 
+### what is already running on the Jack of all IoT trades 
+
+- WiFi / BLE / BT by **ESP32**
+  - [Info ESP32](http://espressif.com/en/products/hardware/esp32/overview)
+- LoRa
+
+
+
 ### To Do
 
 - create repo

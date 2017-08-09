@@ -1,9 +1,9 @@
 # What's up in late summer / autumn of 2017
 
-the `The Jack of all IoT trades` is up and coming!
+`The Jack of all IoT trades` is up and coming!
 
 
-## What's ``The Jack of all IoT trades``
+## What's that 
 
 ``The Jack of all IoT trades`` is an open hardware project from and for the ESP32 community and comes step by step.
 

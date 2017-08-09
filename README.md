@@ -3,7 +3,7 @@
 the ***Jack of all IoT trades*** is up and coming!
 
 
-## What's "The Jack of all IoT trades"
+## What's `The Jack of all IoT trades`
 
 ***Jack of all IoT trades*** is an open hardware project from and for the ESP32 community and comes step by step.
 

@@ -13,7 +13,7 @@ It comes with arduino friendly form size and [Arduino core for the ESP32 support
 
 Also get support for [Espressif IoT Development Framework](https://github.com/espressif/esp-idf) the official development framework for ESP32.
 
-Visit this time to time cause it gets time to time an update here
+Visit this [repo](https://github.com/ESP32DE/Jack_of_all_IoT_trades) time to time cause it gets time to time an update here
 
 ### What has already been conceived to realize and what is already running  
 

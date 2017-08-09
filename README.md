@@ -20,13 +20,10 @@ Visit this time to time cause it gets time to time an update here
 - WiFi / BLE / BT Base is by **ESP32**
   - [Info ESP32](http://espressif.com/en/products/hardware/esp32/overview)
 
-..
-..
-..
-..
+- Supplement follows
+
 
 ### To Do
-
 - ~create repo~ 
 - ~create readme~
 - append readme text with more infos
@@ -37,30 +34,5 @@ Visit this time to time cause it gets time to time an update here
 - calculate Boardprice and work
 - create possible things like kickstarter or other to go in serie with the idea
 
-
 --------------------------------------------------------------------------------------------------
-
-
-
-
-( helpfull format tips - will delete later ) 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
